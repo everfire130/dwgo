@@ -1,0 +1,3 @@
+[submodule "src/aliyun/alibabacloud-go-sdk"]
+	path = src/aliyun/alibabacloud-go-sdk
+	url = https://github.com/aliyun/alibabacloud-go-sdk
